@@ -17,16 +17,16 @@ during the COVID-19 period (2020).
 * Matplotlib
 * Seaborn
 
-## Dataset
-Source: Kaggle - Gokul Raj Kuppan
-Link: kaggle.com/datasets/gokulrajkmv/unemployment-in-india
+## Dataset 
+ Source: Kaggle - Gokul Raj Kuppan  
+ https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 
 ## Full Notebook
-View complete analysis with graphs here:
-https://www.kaggle.com/code/maneeshachauhan/unemployment-india-analysis
+ View complete analysis with graphs here:
+ https://www.kaggle.com/code/maneeshachauhan/unemployment-india-analysis
 
 ## Author
-Maneesha Chauhan
-University of Delhi
+ Maneesha Chauhan
+ University of Delhi
 
 
